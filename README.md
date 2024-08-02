@@ -32,4 +32,4 @@ Remember, **mental health matters**. Let's create a more compassionate world tog
 
 [![Check My Certificate](https://img.shields.io/badge/Check-My%20Certificate-brightgreen)](https://drive.google.com/file/d/1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ/view?usp=drive_link)
 
-![Certificate](https://drive.google.com/uc?export=view&id=1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ)
+[View or Download Certificate](https://drive.google.com/file/d/1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ/view?usp=drive_link)
