@@ -1,7 +1,5 @@
 # Be There Certificate 🌟
 
-![Be There Certificate Logo]([https://cdn.prod.website-files.com/644fbcdb7589c45373c8199d/649d7ca04d4c36c14d1e9c2b_Be-There-Certificate-logo.svg])
-
 ## About the Certificate
 
 The **Be There Certificate** is a **free, self-paced online course** designed to increase mental health literacy. By completing this course, you'll gain the knowledge, skills, and confidence to **safely support anyone struggling with their mental health**.
