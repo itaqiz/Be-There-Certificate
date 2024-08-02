@@ -1,6 +1,6 @@
 # Be There Certificate 🌟
 
-!Be There Certificate
+![Be There Certificate](https://www.betherecertificate.org/assets/images/logo.png)
 
 ## About the Certificate
 
@@ -17,7 +17,7 @@ The **Be There Certificate** is a **free, self-paced online course** designed to
 
 ## How to Get Started 🚀
 
-1. Visit the Be There Certificate website.
+1. Visit the [Be There Certificate website](https://www.betherecertificate.org/).
 2. Sign up for the course—it's **available in French, English, and Spanish**.
 3. Complete the six interactive lessons.
 4. Earn your certificate and make a positive impact!
@@ -30,3 +30,4 @@ The **Be There Certificate** is a **free, self-paced online course** designed to
 
 Remember, **mental health matters**. Let's create a more compassionate world together! 🌈
 
+[![Check My Certificate](https://i.imgur.com/your_certificate_button.png)](https://drive.google.com/drive/u/0/folders/1yCIboFpS1pCXEHU6kLcwu-w8_SWaT5uS)
