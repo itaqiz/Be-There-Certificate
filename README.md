@@ -1,6 +1,6 @@
 # Be There Certificate 🌟
 
-![Be There Certificate Logo](https://www.betherecertificate.org/assets/images/logo.png)
+![Be There Certificate Logo](https://www.jedfoundation.org/wp-content/uploads/2021/05/be-there-logo.png)
 
 ## About the Certificate
 
@@ -31,5 +31,3 @@ The **Be There Certificate** is a **free, self-paced online course** designed to
 Remember, **mental health matters**. Let's create a more compassionate world together! 🌈
 
 [![Check My Certificate](https://img.shields.io/badge/Check-My%20Certificate-brightgreen)](https://drive.google.com/file/d/1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ/view?usp=drive_link)
-
-[View or Download Certificate](https://drive.google.com/file/d/1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ/view?usp=drive_link)
