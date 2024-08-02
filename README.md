@@ -1,6 +1,6 @@
 # Be There Certificate 🌟
 
-![Be There Certificate Logo](file:///mnt/data/image.png)
+![Be There Certificate Logo](https://www.betherecertificate.org/assets/images/logo.png)
 
 ## About the Certificate
 
@@ -30,4 +30,4 @@ The **Be There Certificate** is a **free, self-paced online course** designed to
 
 Remember, **mental health matters**. Let's create a more compassionate world together! 🌈
 
-[![Check My Certificate](https://i.imgur.com/your_certificate_button.png)](https://drive.google.com/file/d/1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ/view?usp=drive_link)
+[![Check My Certificate](https://via.placeholder.com/150x50.png?text=Check+My+Certificate)](https://drive.google.com/file/d/1k8V4oQy1qWAheREdfyrwZK7nMhSLFKeQ/view?usp=drive_link)
