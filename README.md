@@ -1,6 +1,6 @@
 # Be There Certificate 🌟
 
-![Be There Certificate Logo](https://www.betherecertificate.org/assets/images/logo.png)
+![Be There Certificate Logo](file:///mnt/data/image.png)
 
 ## About the Certificate
 
