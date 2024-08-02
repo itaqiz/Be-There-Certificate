@@ -1,6 +1,6 @@
 # Be There Certificate 🌟
 
-![Be There Certificate Logo]([https://www.jedfoundation.org/wp-content/uploads/2021/05/be-there-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nec.org%2F2023%2F05%2F15%2Fbe-there-certificate%2F&psig=AOvVaw0LGU3sEVmuxuWOiR01cO1m&ust=1722723510854000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCD-Kmr14cDFQAAAAAdAAAAABAE))
+![Be There Certificate Logo]([https://cdn.prod.website-files.com/644fbcdb7589c45373c8199d/649d7ca04d4c36c14d1e9c2b_Be-There-Certificate-logo.svg])
 
 ## About the Certificate
 
